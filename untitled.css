@@ -5,3 +5,13 @@ h1 {
 h3 {
     text-align: center;
 }
+
+p {
+    color: red; 
+    text-decoration: overline;
+    font-size: 56px;
+}
+
+span {
+    background-color: yellow
+}
