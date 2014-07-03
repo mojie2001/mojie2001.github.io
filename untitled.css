@@ -1,9 +1,15 @@
 h1 {
     text-align: center;
+    color: orange;
+}
+
+h2 {
+    color: orange;
 }
 
 h3 {
     text-align: center;
+    color: orange;
 }
 
 p {
@@ -19,6 +25,7 @@ span {
 body {
     background:url("http://openclipart.org/people/StudioFibonacci/StudioFibonacci_Cartoon_llama.svg");
     background-position: center center
-    
+    background-repeat: no-repeat;
+
 }
 
