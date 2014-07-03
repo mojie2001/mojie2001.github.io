@@ -15,3 +15,7 @@ p {
 span {
     background-color: yellow
 }
+
+body {
+    background: url="http://openclipart.org/people/StudioFibonacci/StudioFibonacci_Cartoon_llama.svg";
+}
